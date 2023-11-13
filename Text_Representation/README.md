@@ -23,11 +23,8 @@ This project includes a Jupyter Notebook that provides a hands-on approach to te
 2. **Installation**: Navigate to the `Text_Representation` directory and install the required libraries using `pip install -r requirements.txt`.
 3. **Run the Notebook**: Open the Jupyter Notebook (`Basic_text_representation_NLP.ipynb`) in Jupyter Lab or Jupyter Notebook and run the cells to see the text representation techniques in action.
 
-## Contributing
-Contributions, issues, and feature requests are welcome. Feel free to check the [issues page](link-to-issues-page) for open issues or create a new issue.
-
 ## License
-This project is [MIT licensed](link-to-license).
+This project is MIT licensed.
 
 ## Contact
-For any queries, please reach out to [Dr. Mohamed Elkholy](mailto:your-email@example.com).
+For any queries, please reach out to [Dr. Mohamed Elkholy](mohamedkholyios@icloud.com).
