@@ -5,7 +5,7 @@
 This repository contains the project "Basic Text Representation in Natural Language Processing (NLP)." It aims to demonstrate fundamental techniques for text representation in NLP, a crucial aspect of understanding and processing human language in computing.
 
 ## Live Project Link
-[View the Notebook in Action]([https://github.com/Dr-Mohamed-Elkholy/NLP/blob/main/Text_Representation/Basic_text_representation_NLP.ipynb](https://github.com/Dr-Mohamed-Elkholy/Machine-Learning-Projects/blob/main/NLP/Text_Representation/Basic_text_representation_NLP.ipynb))
+[View the Notebook in Action]([https://github.com/Dr-Mohamed-Elkholy/NLP/blob/main/Text_Representation/Basic_text_representation_NLP.ipynb](https://github.com/Dr-Mohamed-Elkholy/Machine-Learning-Projects/blob/main/NLP/Text_Representation/Basic_text_representation_NLP.ipynb)
 
 ## Problem Statement
 The primary goal of this project is to explore and implement basic text representation methods in NLP. These techniques are foundational for various applications like text classification, sentiment analysis, and machine translation.
