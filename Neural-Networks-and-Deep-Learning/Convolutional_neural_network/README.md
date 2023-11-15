@@ -31,5 +31,10 @@ To get started with this project:
 2. **Install Dependencies:** Ensure that Python, TensorFlow, and other necessary libraries are installed.
 3. **Run the Notebook:** Open the Jupyter Notebook and run the cells to see the CNN in action.
 
+# How to Use This Repository
+1. **Clone the Repository**: Execute `git clone https://github.com/Dr-Mohamed-Elkholy/Machine-Learning-Projects.git` to clone this repository.
+2. **Installation**: After cloning, navigate to the `Neural-Networks-and-Deep-Learning/Convolutional_neural_network` folder and install necessary dependencies.
+3. **Running the Notebook**: Open the `convolutional_neural_networks.ipynb` in Jupyter Lab or Notebook and execute the cells to understand how CNNs work in deep learning.
+
 ## Contact
 For any queries regarding this project, please reach out to me at [mohamedkholyios@icloud.com](mailto:mohamedkholyios@icloud.com).
